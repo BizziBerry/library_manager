@@ -27,7 +27,6 @@
 - ✅ Статистика библиотеки
 
 ### Запуск демонстрации:
-```bash
 cd 11_lesson_moduls
 python example_usage.py
 
